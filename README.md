@@ -3,7 +3,7 @@
 
 ### 🛠️ Technical Skills & Expertise
 
-*   **Programming Languages:** Python, C#, SQL
+*   **Programming Languages:** Python, Rust, C#, SQL
 *   **Machine Learning & Data Science:**
     *   Libraries/Frameworks: Scikit-learn, Pandas, NumPy, TensorFlow, PyTorch, Keras
     *   Statistical Analysis, Predictive Modeling, NLP, Computer Vision
@@ -18,7 +18,7 @@ I'm eager to collaborate on innovative data science and machine learning project
 
 ### 🌱 Current Focus & Learning
 
-I'm dedicated to staying at the forefront of AI and Machine Learning, continuously exploring new techniques, tools, and research to enhance my capabilities and contribute to cutting-edge projects.
+I'm dedicated to staying at the forefront of AI and Machine Learning, continuously exploring new techniques, tools, and research to enhance my capabilities and contribute to cutting-edge projects. The special focus is on LLM/AI development and application to everyday life 
 
 📫 **Connect with me:**
 *   **Email:** isholamyson@gmail.com
